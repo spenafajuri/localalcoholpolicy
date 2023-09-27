@@ -7,3 +7,4 @@ In this folder, we provide access to the key documents mentioned in the article.
 - Street-level marketing. This is the original document describing the analysis of storefrong signs data.
 - Final report to SENDA, 2016 and first and second trimester report to SENDA 2017. This document provides information on the achievements of the 2016 plan.
 The 2017 plan, as noted, was severely disrupted and we only have information until the end of the second trimester of 2017.
+- Community Pilot in San Borja. We included a summary of the pilot (original document created for the signing ceremony), the signed agreement and the sign for liquor stores.
